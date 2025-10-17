@@ -1,4 +1,4 @@
-# 📖 Word2Vec: Entrenamiento de Word Embedding Propio
+# 📖 Word2Vec: Entrenamiento de Word Embedding 
 
 [![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
